@@ -1,6 +1,6 @@
 # Windows Server 2016 single host for containers
 
-> Originally from the (Microsoft Docs)[https://github.com/MicrosoftDocs/Virtualization-Documentation/tree/live/windows-server-container-tools/containers-azure-template]
+> This is a modified copy of the original from the [Microsoft Docs](https://github.com/MicrosoftDocs/Virtualization-Documentation/tree/live/windows-server-container-tools/containers-azure-template).
 
 ## What's the difference?
 
